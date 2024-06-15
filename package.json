@@ -1,0 +1,20 @@
+{
+  "name": "pcd-1-todo-backend",
+  "version": "1.0.0",
+  "description": "In this video series, we'll be building a comprehensive to-do application using the MERN Stack (MongoDB, Express.js, React.js, Node.js). This project will provide a solid foundation for beginners to learn full-stack web development with MERN.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.1",
+    "nodemon": "^3.1.3"
+  },
+  "type": "module"
+}

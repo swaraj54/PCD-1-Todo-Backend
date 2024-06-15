@@ -1,0 +1,8 @@
+Create repo
+Clone it in pc
+Setup Express
+Connect mongodb
+Create MVC structure
+Create api's
+Create controllers
+Test it by using Postman/thunder client
